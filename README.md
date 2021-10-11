@@ -1,2 +1,2 @@
 
-#I'm stil trying to learn github and git
+# I'm stil trying to learn github and git
